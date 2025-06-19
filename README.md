@@ -62,7 +62,8 @@ We train it on the classic **MNIST handwritten digit** dataset to classify digit
 
 No setup needed!
 
-Click → [**Open in Colab**](https://colab.research.google.com/github/yourusername/NN_from_scratch/blob/main/NN_from_scratch.ipynb)  
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iam-vsr/neural_net_from_scratch/blob/main/NN_from_scratch.ipynb)
+
 Then click: `Runtime > Run all`
 
 ---
@@ -70,7 +71,7 @@ Then click: `Runtime > Run all`
 
 ## 🤝 Connect With Me
  
-🔗 [LinkedIn](#) • 📂 [GitHub](#)
+🔗 [LinkedIn](https://www.linkedin.com/in/vansh-verma-v) • 📂 [GitHub](https://www.github.com/iam-vsr)
 
 ---
 
