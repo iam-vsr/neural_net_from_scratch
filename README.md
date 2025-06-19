@@ -68,6 +68,11 @@ Then click: `Runtime > Run all`
 ---
 
 
+## 🤝 Connect With Me
+ 
+🔗 [LinkedIn](#) • 📂 [GitHub](#)
+
+---
 
 
 
